@@ -1,0 +1,19 @@
+div {
+  text-align: center;
+}
+.inputText {
+  margin-top: 20px;
+  padding: 10px;
+}
+button {
+  font-size: large;
+  color: white;
+  background-color: rgb(46, 157, 194);
+  border: none;
+  margin: 25px 5px 5px 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.none {
+  display: none;
+}
