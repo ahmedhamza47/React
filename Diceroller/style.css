@@ -1,0 +1,9 @@
+img {
+  width: 100px;
+  height: 10vh;
+  text-align: center;
+}
+div {
+  text-align: center;
+  display: block;
+}
